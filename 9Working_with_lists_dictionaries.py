@@ -1,4 +1,4 @@
-""" Working with Lists with for loop """
+""" Working on Lists with for loop """
 
 subjects=["Hindi","Python","Java","DSA","Networking","DME","SM"]
 
