@@ -1,0 +1,73 @@
+[33mcommit 335ebc06b2d4066045fc941808835461b6e8ea33[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Thu Apr 21 21:11:48 2022 +0530
+
+    added dictionarie and string
+
+[33mcommit c35ed446d9c3cfd3cbf35f16eb20622f48fdab6b[m
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Tue Apr 19 20:13:24 2022 +0530
+
+    changed filenames
+
+[33mcommit b81ba5160a59111ad2bb95307530d2875f0b81e8[m
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Tue Apr 19 20:11:28 2022 +0530
+
+    changed file names
+
+[33mcommit 67248abfe8f6ecd7614635e49a39758010a8fd1f[m
+Merge: b04efaa a2dec17
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Tue Apr 19 20:06:21 2022 +0530
+
+    Merge branch 'master' of https://github.com/devendra-rgb/Python_tutorials
+
+[33mcommit b04efaad1db5819b2a6296f118585b168604ee59[m
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Mon Apr 18 20:54:22 2022 +0530
+
+     added range,loop,tuples
+
+[33mcommit a2dec171003885ec492551bd5e47913e9539b18f[m
+Author: devendra-rgb <63838746+devendra-rgb@users.noreply.github.com>
+Date:   Thu Apr 14 21:45:58 2022 +0530
+
+    Update lists.py
+
+[33mcommit 8b49712c4de39e7c7259c551706fb768930efc31[m
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Thu Apr 14 21:35:24 2022 +0530
+
+    Added Book
+
+[33mcommit cd594c65c28ea639560634dec5b91ece17aeed46[m
+Merge: 0934fcd d132883
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Thu Apr 14 21:06:07 2022 +0530
+
+    Merge branch 'master' of https://github.com/devendra-rgb/Python_tutorials
+
+[33mcommit 0934fcdd8f3de86b7128293cc5e13002576f1d35[m
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Thu Apr 14 21:05:10 2022 +0530
+
+     added lists_datatypes
+
+[33mcommit d13288395e5290fac807dd5db8105cdf1a329012[m
+Author: devendra-rgb <63838746+devendra-rgb@users.noreply.github.com>
+Date:   Wed Apr 13 22:48:22 2022 +0530
+
+    Update strings_.py
+
+[33mcommit 0e2e6a4000b276faa5b3950a930188a8318d58c6[m
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Wed Apr 13 21:35:02 2022 +0530
+
+     added readme.txt
+
+[33mcommit b91a984934ad592864613889b3543bac17b59821[m
+Author: devendra-rgb <devendratumu@gmai..com>
+Date:   Wed Apr 13 21:17:22 2022 +0530
+
+     added strings

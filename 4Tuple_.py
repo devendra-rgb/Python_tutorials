@@ -13,6 +13,6 @@ coOrdinate=(2,5)
 print(coOrdinate)
 
 #unpacking the elements form tuple with the multiple variables
-x,y,z=coOrdinate
+x,y=coOrdinate
 
-print(x)
+print(x,y)
