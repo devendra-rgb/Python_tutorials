@@ -3,13 +3,13 @@
 subjects=["Hindi","Python","Java","DSA","Networking","DME","SM"]
 
 #traversing elements of the list with range function
-#print("Range Function used!! ")
-#size=len(subjects) #saving the len of the list
-#for subject in range(size): #subjects=["Hindi","Python","Java","DSA","Networking","DME","SM"]
-#        print(subjects[subject])
+print("Range Function used!! ")
+size=len(subjects) #saving the len of the list
+for subject in range(size): #subjects=["Hindi","Python","Java","DSA","Networking","DME","SM"]
+        print(subjects[subject])
 
 #traversing the elements of the list without having range function
-#print()#print new line
+print()#print new line
 #syntax for element in list_name:
 #           print(element)
 
@@ -22,7 +22,7 @@ for subject in subjects:  #subjects=["Hindi","Python","Java","DSA","Networking",
 record={"Hindi":79,"Python":99,"Java":95,"DSA":88,"Networking":84,"DME":65,"SM":65}
 
 #to print a single element with the key 
-#print(record["Hindi"])
+print(record["Hindi"])
 
 #print the key names of the dictionary
 print(record.keys())
